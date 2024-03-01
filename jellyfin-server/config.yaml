@@ -2,7 +2,7 @@ name: Jellyfin Server
 version: 1.1.4
 slug: jellyfinserver
 description: Jellyfin Server add-on
-url: https://github.com/mdvorak/ha-addon-jellyfin
+url: https://github.com/mike-drucker/ha-addon-jellyfin
 webui: http://[HOST]:[PORT:8096]
 arch:
   - aarch64
