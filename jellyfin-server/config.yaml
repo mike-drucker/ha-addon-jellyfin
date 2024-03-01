@@ -13,7 +13,7 @@ map:
   - config:rw
   - share:rw
   - media:rw
-  - ssl
+  - backup
 video: true
 ports:
   8096/tcp: 8096
